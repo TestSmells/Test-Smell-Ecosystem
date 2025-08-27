@@ -1,4 +1,4 @@
-# Software Test Smells Research: Comprehensive Analysis of Authors, Tools, and Datasets
+# Software Test Smells Ecosystem: Tools, and Datasets
 
 ## Executive Summary
 
